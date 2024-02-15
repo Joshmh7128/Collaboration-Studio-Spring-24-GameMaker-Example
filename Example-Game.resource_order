@@ -16,10 +16,14 @@
     {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_unset","order":4,"path":"sprites/spr_unset/spr_unset.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_breakable","order":3,"path":"sprites/spr_breakable/spr_breakable.yy",},
     {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_fryer","order":5,"path":"sprites/spr_fryer/spr_fryer.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"obj_ingredient","order":3,"path":"objects/obj_ingredient/obj_ingredient.yy",},
+    {"name":"obj_fryer","order":4,"path":"objects/obj_fryer/obj_fryer.yy",},
     {"name":"obj_breakable","order":2,"path":"objects/obj_breakable/obj_breakable.yy",},
   ],
 }
